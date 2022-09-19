@@ -1,0 +1,9 @@
+studentgroups
+Tle C22 
+TESp Physiques 4 mathematiques 4 anglais 4 Chimie 4 sport 5 svt 1
+PALL1 Physiques 1 mathematiques 3
+PALL9 Physiques 1 mathematiques 3
+teachers
+benito Physiques
+benito  mathematiques
+end
